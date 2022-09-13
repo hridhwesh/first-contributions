@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
--[Hridhwesh](https://github.com/hridhwesh)
+- [Hridhwesh](https://github.com/hridhwesh)
 - [Lukas Walczak](https://github.com/walclu)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [Tim Geil ⛓](https://github.com/timgeil)
